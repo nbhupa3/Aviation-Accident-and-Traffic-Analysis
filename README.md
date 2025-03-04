@@ -1,6 +1,6 @@
 # Aviation-Accident-and-Traffic-Analysis
 
-## Overview
+## Introduction
 
 Welcome to the Aviation Incident and Traffic Analysis Dashboard! This Power BI dashboard provides a comprehensive analysis of U.S. airline traffic and aviation accidents, focusing on passenger trends, domestic vs. international flights, and safety insights. It helps aviation analysts, airline operators, and regulators make informed decisions to enhance efficiency and flight safety.
 
