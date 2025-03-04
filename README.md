@@ -97,6 +97,6 @@ The dashboard utilizes the following data sources:
 ![Dom vs Intl Trends](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/a6f3aa6c8a34bb1b159a6b214f407b0bed9906ca/Dom%20vs%20Intl%20Trends.png)
 
 #### Accidents Page
-![Accidents](https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/Detailed%20Flight%20Analysis.png) 
+![Accidents](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/73e072be65bc421bfe980660256d2cc85b04236a/Accidents.png)
 
 Thank you for using the Airport Analysis Dashboard. We hope this tool helps you enhance airport operations and improve the overall passenger experience.
