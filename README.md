@@ -83,7 +83,7 @@ The dashboard utilizes the following data sources:
 
 ## Usage
 
-- **Filtering and Slicing**: Use the built-in filters and slicers to focus on specific time periods, airlines, routes, or other dimensions.
+- **Filtering and Slicing**: Use the built-in filters and slicers to focus on specific time periods.
 
 ### Photos
 
@@ -99,4 +99,4 @@ The dashboard utilizes the following data sources:
 #### Accidents Page
 ![Accidents](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/73e072be65bc421bfe980660256d2cc85b04236a/Accidents.png)
 
-Thank you for using the Airport Analysis Dashboard. We hope this tool helps you enhance airport operations and improve the overall passenger experience.
+Thank you for using the **Aviation Accident and Traffic Analysis**. We hope this tool provides valuable insights into air traffic trends and aviation safety, helping to enhance decision-making and improve overall flight operations.
