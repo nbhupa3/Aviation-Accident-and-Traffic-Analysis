@@ -91,7 +91,7 @@ The dashboard utilizes the following data sources:
 ![Overview Page](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/bdf13f5b8f49408d96c008da1d3f1dc635a84a83/Overview%20Page.png)
 
 #### Domestic vs International Trends Page
-![Don vs Intl Trends](https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/Detailed%20Flight%20Analysis.png) 
+![Dom vs Intl Trends](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/a6f3aa6c8a34bb1b159a6b214f407b0bed9906ca/Dom%20vs%20Intl%20Trends.png)
 
 #### US Airline Traffic Trends Page
 ![US Airline Traffic Trends]([https://github.com/jahnvisahni31/Airport_analysis/blob/main/images/Delays%20and%20Time%20Analysis%20Page.png](https://github.com/nbhupa3/Aviation-Accident-and-Traffic-Analysis/blob/9dfb5a01913557fbcbebce858e3d68944a9f0eeb/US%20Airline%20Traffic%20Trends.png)) 
